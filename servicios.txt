@@ -1,0 +1,6 @@
+dj,1000
+decoracion,800
+cotillon,500
+maquina de humo,200
+maquillaje,100
+música en vivo,1200
