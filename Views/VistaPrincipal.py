@@ -13,6 +13,7 @@ class VistaPrincipal:
         print("5. Ver costo total")
         print("6. Reservar evento")
         print("7. Cancelar reserva")
+        print("8. Verificar reserva")
         print("0. Salir")
         
         

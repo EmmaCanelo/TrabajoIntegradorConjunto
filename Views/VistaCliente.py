@@ -31,3 +31,8 @@ class VistaCliente:
     
     def dni_usado(self):
         return input("\nYa se encuantra un evento registrado con este usuario, por el momento solo tomamos pedidos de diferentes personas, presione una tecla para continuar: ")
+    
+    def evento_reservado(self, fecha):
+        print(f"\nLa fecha de su evento esta programada para el {fecha} con los siguientes servicios:")
+        
+    

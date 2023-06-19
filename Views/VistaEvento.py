@@ -17,8 +17,8 @@ class VistaEvento:
     def evento_guardado(self):
         return input("\nSe guardó con exito su día. presione 1 para volver al menu principal: ")
     
-    def senia_evento(self, monto):
-        print(f"\nPara finalizar la reserva, debe abonar una seña de ${monto}, en concepto del 30% del total")
+    def senia_evento(self, monto, total):
+        print(f"\nPara finalizar la reserva, debe abonar una seña de ${monto}, en concepto del 30% del total ${total}")
         return input("\nIngrese el monto solicitado (1 - Salir): ")
     
     def error_senia(self):
