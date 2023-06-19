@@ -1,0 +1,6 @@
+dj;50000
+decoracion;20000
+cotillon;10000
+maquina de humo;5000
+maquillaje;10000
+música en vivo;50000
